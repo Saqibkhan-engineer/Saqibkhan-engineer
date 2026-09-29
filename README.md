@@ -1,4 +1,5 @@
-![Header](./github-header-banner.png)
+<img width="1584" height="396" alt="Black and White Illustrative Linkedin Banner (3)" src="https://github.com/user-attachments/assets/08141cd6-7748-43f3-8a16-900e97f52a77" />
+
 ## Socials:
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammadsaqibkhanengineer" target="_blank">
